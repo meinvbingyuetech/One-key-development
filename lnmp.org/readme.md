@@ -12,14 +12,24 @@
 
 ----
 
+## 常用文件目录
+
+- 日志
 ```
 /home/wwwlogs/access.log
 /home/wwwlogs/nginx_error.log
 /usr/local/php/var/log/php-fpm.log
+```
 
-
-
+- php
+```
 /usr/local/php/etc/php-fpm.conf
+/usr/local/php/etc/php.ini
+```
+
+- nginx
+```
 /usr/local/nginx/conf/fastcgi.conf
 /usr/local/nginx/conf/vhost/*.conf
+/usr/local/nginx/conf/nginx.conf
 ```
