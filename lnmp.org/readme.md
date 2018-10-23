@@ -9,3 +9,17 @@
 
 - LNMP状态管理命令
   * https://lnmp.org/faq/lnmp-status-manager.html
+
+----
+
+```
+/home/wwwlogs/access.log
+/home/wwwlogs/nginx_error.log
+/usr/local/php/var/log/php-fpm.log
+
+
+
+/usr/local/php/etc/php-fpm.conf
+/usr/local/nginx/conf/fastcgi.conf
+/usr/local/nginx/conf/vhost/*.conf
+```
