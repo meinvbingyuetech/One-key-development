@@ -3,7 +3,7 @@
 ## lnmp vhost add  添加虚拟主机时，选择对应PHP版本
 
 ```
-/usr/localinx/confhost/域名.conf
+/usr/local/nginx/conf/vhost/域名.conf
 
 将里面的include enable-php.conf; 替换为 include enable-php7.1.conf;
 
